@@ -4,6 +4,8 @@ layout: default
 
 # Information
 
+**Name**: Chiyu Zhang
+
 **Email**: alienzhang19961005@gmail.com
 
 **Research Interests**: Computer Vision, Machine Learning
