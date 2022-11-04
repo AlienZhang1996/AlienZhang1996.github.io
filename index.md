@@ -2,6 +2,10 @@
 layout: default
 ---
 
+Modified on November 4th, 2022
+
+
+
 # Information
 
 **Name**: Chiyu Zhang
@@ -18,7 +22,7 @@ layout: default
 
   Sept 2020 - Present    Chengdu China
 
-  Supervised by A.P. [Jun Yang][https://dblp.org/pid/181/2799-25.html]
+  Supervised by A.P. [Jun Yang](https://dblp.org/pid/181/2799-25.html)
 
 - **Bachelor** at School of Computer Science, Sichuan Normal University
 
