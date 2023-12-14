@@ -40,5 +40,5 @@ Modified on December 14th, 2023
 
 # Publication
 
-- S2WAT: Image Style Transfer via Hierarchical Vision Transformer Using Strips Window Attention (AAAI 2024 accepted)
-- Edge Enhanced Image Style Transfer via Transformers (ICMR 2023)
+- [S2WAT: Image Style Transfer via Hierarchical Vision Transformer Using Strips Window Attention](https://arxiv.org/abs/2210.12381) (AAAI 2024 accepted)
+- [Edge Enhanced Image Style Transfer via Transformers](https://dl.acm.org/doi/abs/10.1145/3591106.3592257) (ICMR 2023)
