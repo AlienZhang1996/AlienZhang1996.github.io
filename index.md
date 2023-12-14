@@ -20,7 +20,7 @@ Modified on December 14th, 2023
 
 - **PhD Student** at School of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics
 
-  Sep 2023-Present, Chengdu China
+  Sep 2023 - Present, Chengdu China
 
   Supervised by Prof. Zhe Liu
 
