@@ -18,7 +18,7 @@ Modified on December 14th, 2023
 
 # Education
 
-- **PhD student** at School of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics
+- **PhD Student** at School of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics
 
   Sep 2023-Present, Chengdu China
 
