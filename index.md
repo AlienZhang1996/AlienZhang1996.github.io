@@ -18,11 +18,17 @@ Modified on November 4th, 2022
 
 # Education
 
+- **PhD student** at School of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics
+
+  Sep 2023-Present, Chengdu China
+
+  Supervised by Prof. Zhe Liu
+
 - **Postgraduate** at School of Computer Science, Sichuan Normal University
 
-  Sept 2020 - Present, Chengdu China
+  Sep 2020 - Jun 2023, Chengdu China
 
-  Supervised by A.P. [Jun Yang](https://dblp.org/pid/181/2799-25.html)
+  Supervised by A. Prof. [Jun Yang](https://dblp.org/pid/181/2799-25.html)
 
 - **Bachelor** at School of Computer Science, Sichuan Normal University
 
